@@ -9,4 +9,4 @@ Git tracks changes of files.
 https://github.com/Leefive/learngit.git
 2019年4月10日03:05:23
 
-Create a new branch is quick.
+Create a new branch is quick & simple.
