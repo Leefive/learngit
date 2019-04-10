@@ -12,3 +12,5 @@ https://github.com/Leefive/learngit.git
 Create a new branch is quick and simple.
 
 Now,we are trying to use no fast-forward mode.
+
+Test bug branch.
